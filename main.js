@@ -22,16 +22,16 @@ function showSlides(n, no) {
         x[i].style.display = "none";
     }
     x[slideIndex[no] - 1].style.display = "block";
+    // x[slideIndex[no] - 1].display = "block";
 }
 
 
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
+/*  toggle between hiding and showing dropdown content */
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
 
-// Close the dropdown if the user clicks outside of it
+// Close the dropdown if outside area is clicked
 window.onclick = function(e) {
     if (!e.target.matches('.dropbtn')) {
         var myDropdown = document.getElementById("myDropdown");
