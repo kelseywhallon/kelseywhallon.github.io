@@ -410,7 +410,7 @@ body {
 .fa-sass {
     color: #C96195;
     padding: 0;
-    padding-left: 10px;
+    padding-left: 12px;
 }
 
 .psql {
@@ -559,11 +559,11 @@ body {
     .about-i {
         font-size: 5em;
     }
-    .btn-outline-dark {
+    /* .btn-outline-dark {
         width: 175px;
         padding: 20px;
         font-size: 14px;
-    }
+    } */
 }
 
 
@@ -594,7 +594,7 @@ body {
         width: 350px;
         margin: 0 35px;
         padding: 10px 35px;
-        font-size: 14px;
+        font-size: 18px;
         /* flex-wrap: wrap; */
     }
     .skills-title>h3 {
@@ -642,7 +642,7 @@ body {
         width: 300px;
         margin: 0 35px;
         padding: 10px 35px;
-        font-size: 14px;
+        font-size: 17px;
         /* flex-wrap: wrap; */
         /* text-align: center; */
     }
