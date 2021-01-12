@@ -853,6 +853,11 @@ a {
     font-weight: bold;
 }
 
+.final-proj {
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+}
+
 @media screen and (max-width: 768px) {
     .proj-img {
         width: 50%;
