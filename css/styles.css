@@ -259,7 +259,7 @@ body {
     flex-direction: row;
     justify-content: center;
     text-align: left;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     padding: 25px;
 }
 
@@ -376,6 +376,7 @@ body {
 
 .about-i {
     padding: 15px;
+    font-size: 6em;
 }
 
 .fa-bootstrap {
@@ -513,7 +514,7 @@ body {
     .about-me-container {
         flex-direction: column;
         align-items: center;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
         padding: 5px 15px;
     }
     #about-me-img {
@@ -555,6 +556,9 @@ body {
     .sass-card {
         margin-left: 15px;
     }
+    .about-i {
+        font-size: 4em;
+    }
     .btn-outline-dark {
         width: 150px;
         padding: 20px;
@@ -577,21 +581,21 @@ body {
         width: 350px;
         flex-direction: column;
         align-items: center;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
         padding: 5px 15px;
     }
     .about-me-text {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
     }
     .am-p {
         width: 350px;
         margin: 0 35px;
         padding: 10px 35px;
         font-size: 14px;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
     }
     .skills-title>h3 {
         font-size: 35px;
@@ -625,21 +629,21 @@ body {
         width: 250px;
         flex-direction: column;
         align-items: center;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
         padding: 5px 15px;
     }
     .about-me-text {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
     }
     .am-p {
         width: 300px;
         margin: 0 35px;
         padding: 10px 35px;
         font-size: 14px;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
         /* text-align: center; */
     }
     .skills-title>h3 {
