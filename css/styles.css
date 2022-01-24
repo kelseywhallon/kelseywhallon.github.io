@@ -47,6 +47,7 @@ body {
 .navbar>.dropdown-content>a:hover {
     background-color: #E9E9E9;
     cursor: pointer;
+    padding: 32px;
 }
 
 .icon {
