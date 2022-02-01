@@ -777,7 +777,7 @@ body {
     margin: 0 auto;
     justify-content: center;
     align-items: center;
-    padding: 20px 0;
+    padding-top: 20px;
 }
 
 #project-title {
@@ -948,6 +948,7 @@ a {
     }
     #give-it-a-shot {
         padding-top: 20px;
+        margin-top: 15px;
     }
 }
 
