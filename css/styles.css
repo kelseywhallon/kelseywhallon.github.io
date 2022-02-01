@@ -398,10 +398,6 @@ body {
 }
 
 .technical-skills-container {
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; */
     margin: 0 auto;
     flex-direction: row;
     flex-wrap: wrap;
